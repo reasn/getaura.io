@@ -100,7 +100,7 @@
 
 ## Target Devices
 
-Aura is being developed for all relevant platforms. Due to limited time we will roll out on less common platforms later.
+Aura is being developed for all relevant platforms. Due to limited time we will roll out some platforms later.
 
 ✅ iOS  
 ✅ Android  
