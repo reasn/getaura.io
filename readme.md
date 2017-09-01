@@ -55,31 +55,25 @@
 
 ## 🌀Aura Roadmap
 
-### Prototype
-
-✅ Technical cut-through
-
-### Preview / Alpha Version
-
+✅ Technical cut-through  
 ✅ Editable profile  
 ✅ Status messages  
 ✅ Full encryption  
 ✅ end-to-end encrypted assisted mode \(uses internet to speed things up\)  
 ✅ One-click reset of random user id  
-⏳ Design  
 ⏳ App Store  
+⏳ App Store \(macOS\)  
+⏳ Collect feedback and decide on the next steps  
+⏳ No more assisted communication \(i.e. finally works without internet\)
+
+### Ideas for the next steps
+
+⏳ Design  
 ⏳ Google Play  
-⏳ App Store \(macOS\)
-
-### Beta Version
-
 ⏳ Web version  
 ⏳ Messaging  
 ⏳ Images  
-⏳ Tags
-
-### Full Version
-
+⏳ Tags  
 ⏳ Spread the app without internet \(required for North Korea & co\)
 
 ## How can I help improve Aura?
