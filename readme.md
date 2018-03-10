@@ -1,6 +1,6 @@
 # ![](/assets/icon-76.png)
 
-## [https://play.google.com/apps/testing/io.auraapp.auraandroid](Have Android? Join the Alpha!)
+## [Have Android? Join the Alpha!](https://play.google.com/apps/testing/io.auraapp.auraandroid)
 
 # Aura
 
