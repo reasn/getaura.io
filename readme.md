@@ -1,5 +1,7 @@
 # ![](/assets/icon-76.png)
 
+# [Join the Alpha!](https://play.google.com/apps/testing/io.auraapp.auraandroid)
+
 # Aura
 
 > Show your digital aura wherever you like. Take back your privacy.
