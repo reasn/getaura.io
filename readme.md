@@ -62,4 +62,4 @@
 * Nobody can trace or monitor you without being within 100m range
 
 
-Made with 💚️ in Hamburg St. Pauli
+Made with 💚️ in Hamburg St. Pauli.
