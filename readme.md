@@ -1,5 +1,5 @@
 <p style="text-align: center"><img src="/assets/icon.png" style="height:128px; width: 128px"></p>
-### Aura is a network spread ideas and change the world.
+### Aura is a network to spread ideas and change the world.
 
 ## [Have Android? Join the Alpha!](https://play.google.com/apps/testing/io.auraapp.auraandroid)
 
