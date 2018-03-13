@@ -1,4 +1,4 @@
-<img src="/assets/icon.png" align="center">
+<p style="text-align: center"><img src="/assets/icon.png" style="height:128px; width: 128px"></p>
 
 ## [Have Android? Join the Alpha!](https://play.google.com/apps/testing/io.auraapp.auraandroid)
 
