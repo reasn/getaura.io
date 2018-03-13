@@ -1,113 +1,60 @@
 <p style="text-align: center"><img src="/assets/icon.png" style="height:128px; width: 128px"></p>
+### Aura is a network spread ideas and change the world.
 
 ## [Have Android? Join the Alpha!](https://play.google.com/apps/testing/io.auraapp.auraandroid)
 
-# Aura
+> Show your digital aura wherever you like. No censorship, no control.
 
-> Show your digital aura wherever you like. Take back your privacy.
+### Your Aura is with you
+* Your Aura consists of a few ideas that you hold dear.
+* When another user is in proximity, they can see your ideas. And you see theirs, of course.
 
-### A social network around you
-
-* Aura is an app that allows you to maintain a short social profile on your phone.
-* Other Aura users around you can see it \(and you can see their profiles, of course\)
-
-### Spread thoughts
-
-* Your Aura also has up to three thoughts, short messages that you consider important
-* Others can quickly spread them by making them part of their Aura
-
-### No servers, no internet, no SIM card required
-
+### Aura will be the first unblockable social network
+* Today's social networks transmit your most private data over the internet.
+* Transmission is encrypted but owners and governments have access.
+* The safest way to keep information private is to not transmit it over a network.
 * Aura transmits data directly from phone to phone
 * No network operator or government can shut it down, it requires no network and no internet
 * No registration, nobody stores data about you
-* Factory-reset an old phone, install Aura. Now you have your fully anonymous digital Aura
+* Because it doesn't need a network, you could run Aura on an old phone without wifi and SIM card. 
 
 ## How does it work?
-
-* Aura creates a digital aura around you \(20-100m\)
-* Only people with the app can see your Aura
+* It creates a digital Aura around you \(20-100m\)
+* Your Aura consists of the ideas that you decide to share
+* Other users can see it
 * Your personal aura consists of text and emojis \(more to come!\)
-* Aura needs no internet for that. It works
-  * 🚇 in the subway
-  * 🚂 on trains
-  * 🏔 on Mount Everest
-  * 🛳 on ships
-  * 🌔 on Mars
-  * ✈ in planes
-  * 🏜 in the desert
-  * 🌌 anywhere in the galaxy
-* Aura lets you quickly create and spread thoughts
+* Aura needs no internet for that. It works in the 🚇, on 🚂, in the 🏔, aboard 🛳, on the surface of 🌔, high on and anywhere in the 🌌.
+* You can turn it off time.
+* There are no servers and no data is collected.
 
 ## Why do I want Aura?
-
-* Express yourself by adding a digital aura to your personality
-* See auras around you and start talking if you feel like
+* Self-expression - Humans wore clothes and accessories for millennia. With Aura you wear data (and keep your privacy). 
+* Meet interesting people
 * Anonymously share gossip and buzz
 * Safely coordinate street protests in countries with full internet surveillance
-
-## Private. Like nothing else.
-
-* Nobody who is more than 100m away from you can even see that you use Aura
-* Aura needs no server or infrastructure which may be hacked
-* Any bad guy would have to be nearby to intercept messages
-* If you tend to paranoia
-  * Go to flight mode or eat your SIM card
-  * You can still use Aura
-
-## 🌀Aura Roadmap
-
-### Prototype
-
-✅ Technical cut-through
-
-### Preview / Alpha Version
-
-✅ Editable profile  
-✅ Status messages  
-✅ Full encryption  
-✅ end-to-end encrypted assisted mode \(uses internet to speed things up\)  
-✅ One-click reset of random user id  
-⏳ Design  
-⏳ App Store  
-⏳ Google Play  
-⏳ App Store \(macOS\)
-
-### Beta Version
-
-⏳ Web version  
+  
+## 🌀 Aura Roadmap
+✅ Proof-of-concept for technology
+✅ Share thoughts without internet connection
+✅ Google Play Store
+⏳ iOS App Store
+⏳ User Profiles
+⏳ GIFs
 ⏳ Messaging  
 ⏳ Images  
 ⏳ Tags
-
-### Full Version
-
-⏳ Spread the app without internet \(required for North Korea & co\)
+⏳ Distribute app without network / app stores
 
 ## How can I help improve Aura?
-
-* Register for at [https://goo.gl/forms/pRELNGaehuGznPLm2](https://goo.gl/forms/pRELNGaehuGznPLm2) to be notified about the preview release
+* Register for at [https://goo.gl/forms/pRELNGaehuGznPLm2](https://goo.gl/forms/pRELNGaehuGznPLm2) to stay up-to-date
 * Download it
 * Test it
 * Give feedback
 * if you like it - spread the word!
 
 ## Technology
-
 * Aura is based on bluetooth LE. That is Bluetooth without the hassle
-* While the app is running it creates a digital Aura around you
+* It creates a digital Aura around you
 * Aura needs no servers. You and only you control your data
 * Become invisible again with a click
 * Nobody can trace or monitor you without being within 100m range
-
-## Target Devices
-
-Aura is being developed for all relevant platforms. Due to limited time we will roll out some platforms later.
-
-✅ iOS  
-✅ Android  
-✅ macOS  
-⏳ Chrome web browser  
-⏳ Windows  
-⏳ Chrome OS
-
