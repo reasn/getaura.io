@@ -33,16 +33,18 @@
 * Anonymously share gossip and buzz
 * Safely coordinate street protests in countries with full internet surveillance
   
-## 🌀 Aura Roadmap
-✅ Proof-of-concept for technology
-✅ Share thoughts without internet connection
-✅ Google Play Store
-⏳ iOS App Store
-⏳ User Profiles
-⏳ GIFs
+## 🌀 Aura Roadmap (tbd)
+✅ Proof-of-concept for technology  
+✅ Share thoughts without internet connection  
+✅ Closed alpha and user tests  
+✅ Open alpha  
+⏳ Beta release to Google Play Store  
+⏳ iOS App Store  
+⏳ User Profiles  
+⏳ GIFs  
 ⏳ Messaging  
 ⏳ Images  
-⏳ Tags
+⏳ Tags  
 ⏳ Distribute app without network / app stores
 
 ## How can I help improve Aura?
