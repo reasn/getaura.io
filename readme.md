@@ -1,4 +1,4 @@
-# ![](/assets/icon-76.png)
+<img src="/assets/icon.png" align="center">
 
 ## [Have Android? Join the Alpha!](https://play.google.com/apps/testing/io.auraapp.auraandroid)
 
