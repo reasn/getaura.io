@@ -55,8 +55,11 @@
 * if you like it - spread the word!
 
 ## Technology
-* Aura is based on bluetooth LE. That is Bluetooth without the hassle
+* Aura is based on Bluetooth LE. That is Bluetooth without the hassle
 * It creates a digital Aura around you
 * Aura needs no servers. You and only you control your data
 * Become invisible again with a click
 * Nobody can trace or monitor you without being within 100m range
+
+
+Made with 💚️ in Hamburg St. Pauli
