@@ -9,7 +9,7 @@
 * Your Aura consists of a few ideas that you hold dear.
 * When another user is in proximity, they can see your ideas. And you see theirs, of course.
 
-### Aura will be the first unblockable social network
+### Aura might be the first unblockable social network
 * Today's social networks transmit your most private data over the internet.
 * Transmission is encrypted but owners and governments have access.
 * The safest way to keep information private is to not transmit it over a network.
