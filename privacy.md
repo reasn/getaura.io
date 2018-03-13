@@ -5,9 +5,5 @@
 * We don't store user data.
 * We don't send user data anywhere.
 
-
-
-No lawyers were hurt during the production of this privacy policy.
-
-
+No lawyers were harmed during the production of this privacy policy.
 
