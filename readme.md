@@ -28,7 +28,7 @@
 * There are no servers and no data is collected.
 
 ## Why do I want Aura?
-* Self-expression - Humans wore clothes and accessories for millennia. With Aura you wear data (and keep your privacy). 
+* Humans wore clothes and accessories for millennia. Get Aura and wear data! 
 * Meet interesting people
 * Anonymously share gossip and buzz
 * Safely coordinate street protests in countries with full internet surveillance
