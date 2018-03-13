@@ -23,7 +23,7 @@
 * Your Aura consists of the ideas that you decide to share
 * Other users can see it
 * Your personal aura consists of text and emojis \(more to come!\)
-* Aura needs no internet for that. It works in the 🚇, on 🚂, in the 🏔, aboard 🛳, on the surface of 🌔, flying a  or  anywhere in the 🌌.
+* Aura needs no internet for that. It works in the 🚇, on 🚂, in the 🏔, aboard 🛳, on the surface of 🌔, flying a ✈ or anywhere in the 🌌.
 * You can turn it off time.
 * There are no servers and no data is collected.
 
