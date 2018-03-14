@@ -9,7 +9,7 @@ Please follow these simple steps
 
 The most convenient way to test the app and receive updates is to get it from Google Play:
 
-### [Download Aura in Google Play...](https://play.google.com/apps/testing/io.auraapp.auraandroid)
+#### [Download Aura in Google Play...](https://play.google.com/apps/testing/io.auraapp.auraandroid)
 
 Alternatively you can manually [download and install the signed APK](/downloads.md) \(not recommended! You won't receive updates and fixes for bugs\).
 
