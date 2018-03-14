@@ -1,7 +1,7 @@
 <p style="text-align: center"><img src="/assets/icon.png" style="height:128px; width: 128px"></p>
 ### Aura is a network to spread ideas and change the world.
 
-## [Have Android? Join the Alpha!](https://play.google.com/apps/testing/io.auraapp.auraandroid)
+## Have Android? Join the Alpha!
 
 > Show your digital aura wherever you like. No censorship, no control.
 
