@@ -29,7 +29,6 @@
 
 ## Why do I want Aura?
 * Humans wore clothes and accessories for millennia. Get Aura and wear data! 
-* Meet interesting people
 * Anonymously share gossip and buzz
 * Safely coordinate street protests in countries with full internet surveillance
   
