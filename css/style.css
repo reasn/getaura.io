@@ -74,6 +74,7 @@ section h2 {
     font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: 200;
     letter-spacing: 1px;
+    padding-bottom: 0.1125rem;
 }
 
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
