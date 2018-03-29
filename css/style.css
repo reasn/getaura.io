@@ -187,6 +187,14 @@ header.masthead .header-content {
 header.masthead .header-content h1 {
     font-size: 30px;
 }
+input[type=submit] {
+    background-color: #eec711;
+    color: #000000;
+}
+input[type=submit]:hover {
+    background-color: #e4204e;
+    color: #ffffff;
+}
 
 header.masthead .device-container {
     max-width: 325px;
@@ -463,6 +471,9 @@ ul.left,
 ol.left {
     text-align: left;
 }
+.left-small {
+    /*max-width: 50%;*/
+}
 
 .emoji {
     font-style: normal;
@@ -484,4 +495,25 @@ ol.left {
 }
 .device-mockup .screen img {
     border-radius: 3px;
+}
+
+
+section.concept h3 {
+    margin-top:40px;
+}
+
+
+section.story {
+    position: relative;
+    padding: 250px 0;
+    background: url("../img/camille-couvez-424606-unsplash.jpg") 50% 50%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.help li a {
+    color: #49168e;
 }
