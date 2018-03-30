@@ -519,4 +519,5 @@ section.story {
 
 .help li a {
     color: #49168e;
+    text-decoration: underline;
 }
