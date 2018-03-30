@@ -479,6 +479,9 @@ ol.left {
     font-style: normal;
     height: 120px
 }
+.emoji img{
+    height: 100px
+}
 
 .device-mockup {
     background-image: url(../img/portrait_black.png);
