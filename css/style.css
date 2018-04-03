@@ -126,7 +126,7 @@ section h2 {
     }
 
     #mainNav .navbar-brand {
-        color: fade(white, 70%);
+        color: rgba(255,255,255, 0.7);
     }
 
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
@@ -173,8 +173,6 @@ header.masthead {
     padding-top: 150px;
     padding-bottom: 100px;
     color: white;
-    background: url("../img/bg-pattern.png"), #49168e;
-    background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #49168e, #e4204e);
     background: url("../img/bg-pattern.png"), linear-gradient(to left, #49168e, #e4204e);
 }
 
@@ -518,6 +516,13 @@ section.story {
 }
 
 .help li a {
-    color: #49168e;
+    color: #000000;
+    text-decoration: underline;
+}
+section.cta  {
+    text-align: center;
+}
+section.cta a {
+    color: #000000;
     text-decoration: underline;
 }
