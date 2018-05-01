@@ -1,0 +1,95 @@
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+
+    <title>Aura</title>
+    <script type="text/javascript">
+        (function () {
+            var path = window.location.pathname
+                .replace(/^\//, "")
+                .replace(/\/$/, "");
+
+            var map = {
+                alpha: "https://play.google.com/apps/testing/io.auraapp.auraandroid",
+                feedback: "https://goo.gl/forms/o9Q5T1sq7d0WUoek1",
+                // survey: "TBD",
+            };
+            if (map[path]) {
+                document.location.href = map[path];
+            }
+        })();
+    </script>
+    <style type="text/css" media="screen">
+        /* Taken from GitHub pages default 404 page */
+        body {
+            background-color: #f1f1f1;
+            margin: 0;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+
+        .container {
+            margin: 50px auto 40px auto;
+            width: 600px;
+            text-align: center;
+        }
+
+        a {
+            color: #4183c4;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        h1 {
+            width: 800px;
+            position: relative;
+            left: -100px;
+            letter-spacing: -1px;
+            line-height: 60px;
+            font-size: 60px;
+            font-weight: 100;
+            margin: 0px 0 50px 0;
+            text-shadow: 0 1px 0 #fff;
+        }
+
+        p {
+            color: rgba(0, 0, 0, 0.5);
+            margin: 20px 0;
+            line-height: 1.6;
+        }
+
+        ul {
+            list-style: none;
+            margin: 25px 0;
+            padding: 0;
+        }
+
+        li {
+            display: table-cell;
+            font-weight: bold;
+            width: 1%;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>404</h1>
+    <p><strong>File not found</strong></p>
+
+    <p>
+        The site configured at this address does not
+        contain the requested file.
+    </p>
+
+    <p>
+        Go back to <a href="/index.html">the start page</a>.
+    </p>
+</div>
+</body>
+</html>
+
