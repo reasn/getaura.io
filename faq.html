@@ -64,33 +64,39 @@
         <div class="container">
 
             <h2>Frequently Asked Questions</h2>
-
+            <a name="flightmode"/>
             <h3>Can I use Aura in flight mode?</h3>
             <p>Yes! It's sufficient to enable Bluetoooth. All phones allow to do so while in flight mode.</p>
 
+            <a name="internet"/>
             <h3>Do I need an internet connection for Aura to work?</h3>
             <p>No. You need neither a SIM card nor WIFI.</p>
 
+            <a name="technicals"/>
             <h3>How does it technically work?</h3>
             <p>Aura uses Bluetooth LE to find other Aura users around you. It remembers them for a few minutes (you can
                 adjust that). This happens in the background and because if it's energy efficiency it doesn't impact
                 your battery.</p>
 
+            <a name="battery"/>
             <h3>Does running Aura all day drain my battery?</h3>
             <p>No! Aura is built to run in the background all day. Field tests showed that it typically drains 0.1% of
                 your battery per day. That's not perceivable. The reason for this very low consumption is that it
                 doesn't access the internet and doesn't do any complex calculations in the background.</p>
 
+            <a name="range"/>
             <h3>What's the range of my Aura?</h3>
             <p>Bluetooth LE has a range of 90-100 meters if there's nothing in the way. Depending on the nature of the
                 obstacle it is reduced to much less.
                 In a typical office situation with walls about 20m can be expected. People in the streets pose
                 obstacles, too. Tests show that in a typical street protest situation 20m to 40m can be expected.</p>
 
+            <a name="bluetooth"/>
             <h3>Bluetooth is often a hassle. How about pairing?</h3>
             <p>For Aura to work, Bluetooth has to be enabled. But at no point do you have to pair, enter any codes or in
                 any way care about Bluetooth. Simply start Aura and you see ideas of those around you.</p>
 
+            <a name="mesh"/>
             <h3>Is Aura a mesh network?</h3>
             <p>There is no routing or proxying of messages. Aura shows your profile and ideas to the people around you.
                 If somebody around you likes one of your ideas, they adopt it.
@@ -98,17 +104,19 @@
                 mesh networks do it.
                 In practice it makes Aura more reliable and easier to use. Aura could be characterized as a
                 semi-automatic mesh networks: Users have control over which ideas are spread and which are not.</p>
-
+            <a name="authentication"/>
             <h3>How does authentication work?</h3>
             <p>Aura doesn't have the notion of an account. There is no password or public key infrastructure. Aura
                 publicly shows your profile and idea to the people around you .</p>
 
+            <a name="encryption"/>
             <h3>Are profiles and ideas encrypted in transfer?</h3>
             <p>The idea of Aura is that everybody around you can see and spread your ideas. Encryption requires
                 authentication ahead of time. That would defeat the simplicity of Aura: Open the app and start spreading
                 ideas around you. Communication with people you already know is an entirely different use
                 case. Signal and Telegram are great tools to do that.</p>
 
+            <a name="hate"/>
             <h3>How does Aura fight the spread of hate?</h3>
             <p>Technology is not neutral. Contrary to what some huge social networks keep saying, the creators of a
                 technology have responsibility for and impact on how and for what it's being used. The challenge with
@@ -121,6 +129,7 @@
                 totally worth it because hate-spreaders are forced to engage with content from outside their bubble.
                 There will be better ways because Aura is willing to fight fore humanism.</p>
 
+            <a name="jamming"/>
             <h3>How is Aura protected against jamming?</h3>
             <p>The bad news: It is not. If somebody (e.g. authorities) send a jamming signal, there's nothing
                 smartphones can do about it.<br/>
@@ -130,11 +139,13 @@
                 virtually impossible to jam and provide freedom of speech for ideas that would be immediately
                 blocked/censored on the internet.</p>
 
+            <a name="flooding"/>
             <h3>How is Aura protected against flooding with fake data?</h3>
             <p>Not really, users have to decide on their own what they consider fake and what not. That's the price to
                 pay for freedom of speech. Building in a mechanism to censor bad content would automatically endanger
                 freedom of speech.</p>
 
+            <a name="mac"/>
             <h3>How is Aura protected against intercepting/monitoring MAC addresses?</h3>
             <p>Modern Android phones automatically reset the MAC every few minutes to hours. Disabling Bluetooth
                 immediately resets the MAC.
@@ -143,9 +154,11 @@
                 The risk for early adopters is minimal but this issue will be addressed in the future.
                 Of course rooted Android phones can be set up to rotate and not keep track of MAC addresses.</p>
 
+            <a name="panic"/>
             <h3>Does Aura offer a panic button or plausible deniability?</h3>
             <p>Not yet but it's on top of the roadmap.</p>
 
+            <a name="signal" />
             <h3>How is it different from <a href="https://signal.org" target="_blank">Signal</a>/<a
                     href="https://telegram.org" target="_blank">Telegram</a>/<a href="https://threema.ch"
                                                                                 target="_blank">Threema</a>?</h3>
@@ -154,6 +167,7 @@
                 connection. In a messenger you have to add people you want to talk to. In Aura you simply start the app
                 and see what's up around you.</p>
 
+            <a name="briar"/>
             <h3>How is it different from <a href="https://briarproject.org" target="_blank">Briar</a>?</h3>
             <p>Briar is an emerging encrypted p2p messaging platform. It's sophisticated and looks promising.
                 Simply put, Briar is like Signal without centralized servers. It typically operates over the internet
@@ -162,14 +176,16 @@
                 That requires mutual authentication ahead of time. The idea of Aura is to work without that: You start
                 Aura and see what's up around you.</p>
 
-            <h3>How is it different from <a href="https://www.opengarden.com/firechat.html" target="_blank">FireChat</a>?
+            <a name="firechat"/>
+            <h3>How is it different from <a href="https://www.opengarden.com/firechat.html"
+                                            target="_blank">FireChat</a>?
             </h3>
             <p>Aura was inspired by FireChat's technology but addresses a different use case. FireChat allows you to
-                chat with people around you. The Disadvantage is that neither you nor them can move if you want to keep
-                chatting.
-                Aura is not about chatting but about looking at other's ideas and adding them to your own Aura. For that
-                it's sufficient if you're briefly in the proximity of another Aura user, you don't have to stay
-                there.</p>
+                chat with people around you. The Disadvantage is that neither you nor them can move if you want to
+                keep chatting. Aura is not about chatting but about looking at other's ideas and adding them to
+                your own Aura. For that it's sufficient if you're briefly in the proximity of another Aura user,
+                you don't have to stay there.
+            </p>
         </div>
     </div>
 </section>

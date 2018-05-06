@@ -548,7 +548,9 @@ section.faq p {
     color: #ffffff;
 }
 section.faq h3 {
-    margin-top: 40px;
+    padding-top: 75px;
+    /*margin-top: 30px;*/
+    margin-top: -45px;
 }
 
 .help li a {
