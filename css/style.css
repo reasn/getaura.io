@@ -76,6 +76,7 @@ section h2 {
     letter-spacing: 1px;
     padding-bottom: 0.1125rem;
 }
+
 #mainNav .navbar-brand img {
     height: 16px;
     width: 16px;
@@ -126,7 +127,7 @@ section h2 {
     }
 
     #mainNav .navbar-brand {
-        color: rgba(255,255,255, 0.7);
+        color: rgba(255, 255, 255, 0.7);
     }
 
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
@@ -185,10 +186,12 @@ header.masthead .header-content {
 header.masthead .header-content h1 {
     font-size: 30px;
 }
+
 input.submit {
     background-color: #eec711;
     color: #000000;
 }
+
 input.submit:hover {
     background-color: #e4204e;
     color: #ffffff;
@@ -469,6 +472,7 @@ ul.left,
 ol.left {
     text-align: left;
 }
+
 .left-small {
     /*max-width: 50%;*/
 }
@@ -477,7 +481,8 @@ ol.left {
     font-style: normal;
     height: 120px
 }
-.emoji img{
+
+.emoji img {
     height: 100px
 }
 
@@ -494,15 +499,28 @@ ol.left {
     height: 550px;
     margin: 0 auto;
 }
+
 .device-mockup .screen img {
     border-radius: 3px;
 }
 
-
-section.concept h3 {
-    margin-top:40px;
+section.concept {
+    background-color: #000000;
 }
 
+section.concept h2 {
+    color: #ffffff;
+}
+section.concept h3 {
+    color: #ffffff;
+}
+section.concept p {
+    color: #ffffff;
+}
+
+section.concept h3 {
+    margin-top: 40px;
+}
 
 section.story {
     position: relative;
@@ -515,13 +533,33 @@ section.story {
     color: #ffffff;
 }
 
+
+section.faq {
+    background-color: #000000;
+}
+
+section.faq h2 {
+    color: #ffffff;
+}
+section.faq h3 {
+    color: #ffffff;
+}
+section.faq p {
+    color: #ffffff;
+}
+section.faq h3 {
+    margin-top: 40px;
+}
+
 .help li a {
     color: #000000;
     text-decoration: underline;
 }
-section.cta  {
+
+section.cta {
     text-align: center;
 }
+
 section.cta a {
     color: #000000;
     text-decoration: underline;
