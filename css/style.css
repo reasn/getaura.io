@@ -566,3 +566,14 @@ section.cta a {
     color: #000000;
     text-decoration: underline;
 }
+
+section ul {
+    padding: 5px;
+}
+section li {
+    list-style-type: none;
+}
+section li:before {
+    padding-right: 12px;
+    content: "◉";
+}
