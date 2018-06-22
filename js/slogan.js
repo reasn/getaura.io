@@ -7,6 +7,7 @@
         "Free your Thoughts.",
         "Express Yourself.",
         "Freedom of Speech.",
+        "Open up.",
     ];
 
     setInterval(() => {
